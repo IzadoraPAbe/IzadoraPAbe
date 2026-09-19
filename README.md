@@ -7,7 +7,8 @@ Welcome to my GitHub!
   - 🇧🇷  Brazilian
   - 🦜 Guardian of three baby cockatiels
   - 🎓 Civil Engineer, Master's in Science, MBA in Project Management
-  - 👩🏻 Data Consultant
+  - 👩🏻 Data Specialist
+  - 📘BSc in Data Science (in progress) & Postgraduate in I.A.
 
 
 ### 📱 Contact me
@@ -26,28 +27,12 @@ Welcome to my GitHub!
 
 
 ### 📘 Currently Learning
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit--learn&logoColor=white)
 
 
 ### 📊 Github Stats
 Created: April 12, 2025
-<div>
-  <img height="165cm" src="https://github-readme-stats.vercel.app/api?username=izadorapabe&show_icons=true&theme=holi"/>
-  <img height="165cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izadorapabe&layout=compact&theme=holi"/>
-</div>
-
-<!--
-**IzadoraPAbe/IzadoraPAbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
